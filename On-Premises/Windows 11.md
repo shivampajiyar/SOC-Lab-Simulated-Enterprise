@@ -6,39 +6,40 @@ Step 2: Create a new vm using the downloaded iso image.\
       2.1 Use the folowintg settiings for vm 
       2.2 Select **Typical** configuration.**Next**
       
-      ![Screenshot (5)](https://github.com/user-attachments/assets/df101d58-6d74-4ae3-a4c8-e466bb653305)
+     ![Image](https://github.com/user-attachments/assets/2bce82e5-dcf9-424a-8164-2bb01009eb9f)
 
       2.3 Select **I will install the operating system later** . **Next**
       
-      ![Screenshot (6)](https://github.com/user-attachments/assets/cc2fc54f-6bef-48b1-ae55-c5646553389c)
+      ![Image](https://github.com/user-attachments/assets/a861ced5-f232-4873-b5b0-20afbb65c1bf)
 
       2.4 Select **windows** as operating system and choose **windows 11 x64**  as the version from the dropdown menu.**Next **
 
-      ![Screenshot (6)](https://github.com/user-attachments/assets/c6d454b9-f4e5-41d0-a635-7e4745c59249)
+      ![Image](https://github.com/user-attachments/assets/09f03077-511d-408b-910b-cc5878b66f50)
 
       2.5 Put the name of the machine as **Windows 11 x64** and select thew location of the file .**Next**
 
-      ![Screenshot (9)](https://github.com/user-attachments/assets/9cbe37ba-5fd2-4d5f-b3d7-5d0b6573c249)
+      ![Image](https://github.com/user-attachments/assets/d908ac7d-54c8-4b11-ae97-49cf7c25c277)
 
       2.6 Enter the password for the encryption of the machine.**Next**
 
-      ![Screenshot (10)](https://github.com/user-attachments/assets/127b5f9a-7ea4-4a79-b811-0ca7da7abf2d)
+      ![Image](https://github.com/user-attachments/assets/5e6272c9-0f71-4567-876e-fd6694079c97)
 
       2.7 Dedidcate 20 gb for storage and select **Store virtual disk as a single file**. **Next**
 
-      ![Screenshot (11)](https://github.com/user-attachments/assets/dd438603-0976-4e25-8dd5-ad63d2f84d53)
+      ![Image](https://github.com/user-attachments/assets/0ed789bc-dbf7-441e-9fb7-618cfbb420fc)
 
       2.8 Select **customize hardware** .
 
-      ![Screenshot (12)](https://github.com/user-attachments/assets/5a14c055-fed6-4cb9-a78f-78949466b8f0)
+      ![Image](https://github.com/user-attachments/assets/31856487-a064-4a36-a8d5-2c65e6bfd38e)
 
       2.9 Select **Network** and choose** host-only** as network connection .
 
-      ![Screenshot (13)](https://github.com/user-attachments/assets/38c2cfbd-3b99-4b05-8d72-65749fbed555)
+      ![Image](https://github.com/user-attachments/assets/997cdacb-e6c4-46a2-ac26-71e0b5aa453c)
 
       3.0 Select** New CD/DVD(SATA)** and select** use iso image file**,**browse** and locate the iso image that you downloaded.**Close**      
 
-      ![Screenshot (14)](https://github.com/user-attachments/assets/2b9ca53c-9ade-4130-9010-66e074ab0d2e)
+      
+      ![Image](https://github.com/user-attachments/assets/f9f67962-c8c4-4feb-a36e-712c24bbd6e8)
 
       3.1 **Finish**
 
