@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/f52ce97a-304a-49eb-9b3e-9329538f53ad)
 
-Step 2: Create a new vm using the downloaded iso image. 
+**Step 2: Create a new vm using the downloaded iso image.<br>** 
       2.1 Use the folowintg settiings for vm  
       2.2 Select **Typical** configuration.**Next**      
 ![Image](https://github.com/user-attachments/assets/2bce82e5-dcf9-424a-8164-2bb01009eb9f)
