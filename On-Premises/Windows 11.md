@@ -5,7 +5,7 @@
 Step 2: Create a new vm using the downloaded iso image.
       2.1 Use the folowintg settiings for vm 
       2.2 Select **Typical** configuration.**Next**     
-![Image](https://github.com/user-attachments/assets/2bce82e5-dcf9-424a-8164-2bb01009eb9f
+![Image](https://github.com/user-attachments/assets/2bce82e5-dcf9-424a-8164-2bb01009eb9f)
       2.3 Select **I will install the operating system later** . **Next**  
 ![Image](https://github.com/user-attachments/assets/a861ced5-f232-4873-b5b0-20afbb65c1bf)
       2.4 Select **windows** as operating system and choose **windows 11 x64**  as the version from the dropdown menu.**Next**
