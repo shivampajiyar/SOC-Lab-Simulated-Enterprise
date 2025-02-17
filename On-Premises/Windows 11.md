@@ -11,7 +11,6 @@ Step 2: Create a new vm using the downloaded iso image.
       2.4 Select **windows** as operating system and choose **windows 11 x64**  as the version from the dropdown menu.**Next**
 ![Image](https://github.com/user-attachments/assets/09f03077-511d-408b-910b-cc5878b66f50)
       2.5 Put the name of the machine as **Windows 11 x64** and select thew location of the file .**Next**
-
 ![Image](https://github.com/user-attachments/assets/d908ac7d-54c8-4b11-ae97-49cf7c25c277)
       2.6 Enter the password for the encryption of the machine.**Next**
 ![Image](https://github.com/user-attachments/assets/5e6272c9-0f71-4567-876e-fd6694079c97)
