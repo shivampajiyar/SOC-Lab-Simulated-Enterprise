@@ -29,43 +29,43 @@
 **Step 4: Setup the Kali linux .<br>** 
       4.1 Select **Graphical install** from the options.
 ![Image](https://github.com/user-attachments/assets/f73e42ba-5fd2-4b2d-bd97-7d580397f59b)
-      4.2 Select the language as **English**.**Next**
+      4.2 Select the language as **English**.**Continue**
 ![Image](https://github.com/user-attachments/assets/9fe9b8ed-49ed-4426-8d86-b8d0f85b652a)
-      4.3 Select your location.**Next**
+      4.3 Select your location.**Continue**
 ![Image](https://github.com/user-attachments/assets/ecfd78db-6707-45d5-804e-aa11a74824e6)
-      4.4 Configure the keyboard as **American English**.**Next**
+      4.4 Configure the keyboard as **American English**.**Continue**
 ![Image](https://github.com/user-attachments/assets/8fa89990-35f0-4bb8-b18b-47edbf85d55b)
-      4.5 Load drivers from removable media, select **Yes**.**Next**
+      4.5 Load drivers from removable media, select **Yes**.**Continue**
 ![Image](https://github.com/user-attachments/assets/b2e1ab35-9caa-4072-9a5f-01f350c90843)
-      4.6 Enter the hostname as **initials-kali**.**Next**
+      4.6 Enter the hostname as **initials-kali**.**Continue**
 ![Image](https://github.com/user-attachments/assets/5a0bf8d7-f94c-464b-bca7-f65b377d4afa)
-      4.7 Leave the doamin name empty and select **Next**<br>
-      4.8 Enter the password.**Next**
+      4.7 Leave the doamin name empty and select **Continue**<br>
+      4.8 Enter the password.**Continue**
 ![Image](https://github.com/user-attachments/assets/6e9eb317-bb46-4938-b275-01532415c8cf)
-      4.9 Leave the HTTP proxy blank.**Next**<br>
-      5.0 Enter your **Full Name**.**Next**
+      4.9 Leave the HTTP proxy blank.**Continue**<br>
+      5.0 Enter your **Full Name**.**Continue**
 ![Image](https://github.com/user-attachments/assets/a2bc9fc1-234f-4fee-9a14-61a11964231a)
-      5.1 Enter the username and **Next**
+      5.1 Enter the username and **Continue**
 ![Image](https://github.com/user-attachments/assets/7643b21c-eba7-4446-9d99-aa4067bf9e85)
-      5.2 Enter the password.**Next**
+      5.2 Enter the password.**Continue**
 ![Image](https://github.com/user-attachments/assets/a05a5482-7cb9-4f69-a89b-15d24b6ff43a)
-      5.3 Configure the clock and **Next**
+      5.3 Configure the clock and **Continue**
 ![Image](https://github.com/user-attachments/assets/ee8c3f38-f159-4b3b-a335-9b0a8ca39394)
-      5.4 Partition disk, Select **Guided-use entire disk.Next**
+      5.4 Partition disk, Select **Guided-use entire disk.Continue**
 ![Image](https://github.com/user-attachments/assets/eb8477b9-0ef3-40ca-9f45-9d7643d412e9)
-      5.5 On the next page leave as it is and  **Next**
+      5.5 On the next page leave as it is and  **Continue**
 ![Image](https://github.com/user-attachments/assets/edc31016-0695-4ba2-9af8-f761c1a2db43)
-      5.6 Select the Partitioning as **All files in one partition.Next**
+      5.6 Select the Partitioning as **All files in one partition.Continue**
 ![Image](https://github.com/user-attachments/assets/41ca1009-de41-40a2-a1bc-b79c73632873)
-      5.7 Select **Finish Partitioning and write changes to disk .Next**
+      5.7 Select **Finish Partitioning and write changes to disk .Continue**
 ![Image](https://github.com/user-attachments/assets/660333a0-08bd-41be-b6ca-04e25d485be2)
-      5.8 Select **Yes** to changing the disk .**Next**
+      5.8 Select **Yes** to changing the disk .**Continue**
 ![Image](https://github.com/user-attachments/assets/d8476aa8-dd21-4a36-a9d1-0e3f1d8513c7)
-      5.9 Let the installation process run and select the options and **Next**
+      5.9 Let the installation process run and select the options and **Continue**
 ![Image](https://github.com/user-attachments/assets/f4b18f95-16c9-40ba-9b10-e84aa64f1622)
-      6.0 Select **Yes** to GRUB boot loader installation.**Next**
+      6.0 Select **Yes** to GRUB boot loader installation.**Continue**
 ![Image](https://github.com/user-attachments/assets/e6292944-3ffa-4654-9789-f5cadc4bd262)
-      6.1 Select the location to install the GRUB loader and **Next**
+      6.1 Select the location to install the GRUB loader and **Continue**
 ![Image](https://github.com/user-attachments/assets/81337db7-99d5-4b6f-be06-3cf9b48839de)
       6.2 **Continue** to reboot .
 ![Image](https://github.com/user-attachments/assets/ded585c3-9c86-42e9-88fc-eb7a388bcf8b)
