@@ -8,7 +8,7 @@
 ![Image](https://github.com/user-attachments/assets/9ed1bc69-9686-4d32-9778-2f0aec55c400)
       2.3 Select **I will install the operating system later** . **Next**  
 ![Image](https://github.com/user-attachments/assets/07415f2a-17a8-468d-b93d-083c828e3e92)
-      2.4 Select **linux** as operating system and choose **debian 11.x 64 bit**  as the version from the dropdown menu.**Next**
+      2.4 Select **linux** as operating system and choose **Debian 11.x 64 bit**  as the version from the dropdown menu.**Next**
 ![Image](https://github.com/user-attachments/assets/87d2a0a0-3fae-4552-aa9c-d93110190226)
       2.5 Put the name of the machine as **<initials>_kali** and select thew location of the file .**Next**
 ![Image](https://github.com/user-attachments/assets/69bbfaee-92d1-490c-8935-5220d720a71a)
