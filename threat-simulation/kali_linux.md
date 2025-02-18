@@ -63,3 +63,16 @@
 ![Image](https://github.com/user-attachments/assets/d8476aa8-dd21-4a36-a9d1-0e3f1d8513c7)
       5.9 Let the installation process run and select the options and **Next**
 ![Image](https://github.com/user-attachments/assets/f4b18f95-16c9-40ba-9b10-e84aa64f1622)
+      6.0 Select **Yes** to GRUB boot loader installation.**Next**
+![Image](https://github.com/user-attachments/assets/e6292944-3ffa-4654-9789-f5cadc4bd262)
+      6.1 Select the location to install the GRUB loader and **Next**
+![Image](https://github.com/user-attachments/assets/81337db7-99d5-4b6f-be06-3cf9b48839de)
+      6.2 **Continue** to reboot .
+![Image](https://github.com/user-attachments/assets/ded585c3-9c86-42e9-88fc-eb7a388bcf8b)
+      6.2 Now open the settings of the vm and then select **Use physical device.Ok**
+![Image](https://github.com/user-attachments/assets/eeccdf67-5cdd-40a8-bbaf-09895d5e23b8)
+**Step 5: Power on the vm and enter the credentials .<br>** 
+![Image](https://github.com/user-attachments/assets/298cd211-0087-4a17-a183-044ca6db74ec)
+**Step 6: Enter the credentials.You have succesfully setup the vm  .<br>** 
+![Image](https://github.com/user-attachments/assets/381400b0-0bbc-4545-8b92-e3bf1b1f23d6)
+
