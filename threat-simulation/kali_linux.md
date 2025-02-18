@@ -39,10 +39,10 @@
 ![Image](https://github.com/user-attachments/assets/b2e1ab35-9caa-4072-9a5f-01f350c90843)
       4.6 Enter the hostname as **initials-kali**.**Next**
 ![Image](https://github.com/user-attachments/assets/5a0bf8d7-f94c-464b-bca7-f65b377d4afa)
-      4.7 Leave the doamin name empty ans select **Next**
+      4.7 Leave the doamin name empty ans select **Next**<br>
       4.8 Enter the password.**Next**
 ![Image](https://github.com/user-attachments/assets/6e9eb317-bb46-4938-b275-01532415c8cf)
-      4.9 Leave the HTTP proxy blank.**Next**
+      4.9 Leave the HTTP proxy blank.**Next**<br>
       5.0 Enter your **Full Name**.**Next**
 ![Image](https://github.com/user-attachments/assets/a2bc9fc1-234f-4fee-9a14-61a11964231a)
       5.1 Enter the username and **Next**
