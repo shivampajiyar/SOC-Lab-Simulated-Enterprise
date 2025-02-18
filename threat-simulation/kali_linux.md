@@ -1,6 +1,6 @@
 **Step 1: Download the iso image from the official site https://www.kali.org/get-kali/#kali-installer-images**
 
-![Image](https://github.com/user-attachments/assets/f4a327e5-6319-4e4d-84a2-f3c262edbb64)
+![Image](https://github.com/user-attachments/assets/f707939e-cc28-4262-95fe-1df34c12ded3)
 
 **Step 2: Create a new vm using the downloaded iso image.<br>** 
       2.1 Use the folowintg settiings for vm  
