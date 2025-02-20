@@ -18,7 +18,7 @@
 ![Image](https://github.com/user-attachments/assets/3bd7a4be-15f7-47c9-847a-d0a2172acb07)
       2.8 Select **Network** and choose** **Bridged** as network connection .
 ![Image](https://github.com/user-attachments/assets/35f1b918-c51b-448d-ad26-7e8a75fd7d7d)
-      2.9 Select** New CD/DVD(SATA)** and select** use iso image file**,**browse** and locate the iso image that you downloaded.**Close**      
+      2.9 Select **New CD/DVD(SATA)** and select **use iso image file**,**browse** and locate the iso image that you downloaded.**Close**      
 ![Image](https://github.com/user-attachments/assets/7bbb06e8-9f7b-4aa7-86ba-e4011a53bd39)
       3.0 **Finish**
 ![Image](https://github.com/user-attachments/assets/cca872b1-f851-4b2e-bf55-a67866658f2e)
