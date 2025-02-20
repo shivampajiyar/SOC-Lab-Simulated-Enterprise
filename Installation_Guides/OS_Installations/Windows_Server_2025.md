@@ -10,7 +10,7 @@
 ![Image](https://github.com/user-attachments/assets/99c44bba-c526-4877-84ab-c7668d2d6815)
       2.4 Select **windows** as operating system and choose **Windows Server 2025 **  as the version from the dropdown menu.**Next**
 ![Image](https://github.com/user-attachments/assets/59dcb7f1-3f70-4686-9af0-1f2089594371)
-      2.5 Put the name of the machine as **Initials_Windows Server 2025** and select thew location of the file .**Next**
+      2.5 Put the name of the machine as **Initials_Windows Server 2025 and select thew location of the file .**Next**
 ![Image](https://github.com/user-attachments/assets/f15103e9-bef7-419d-abd8-1c6823c7a698)
       2.6 Dedidcate 40 gb for storage and select **Store virtual disk as a single file**. **Next**
 ![Image](https://github.com/user-attachments/assets/3c826195-c0fb-45d8-b8ad-27aa440ad934)
