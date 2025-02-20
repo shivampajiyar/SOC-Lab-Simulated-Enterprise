@@ -40,6 +40,7 @@
 ![Image](https://github.com/user-attachments/assets/ebd104fc-df17-46b0-ab19-ae6c593879e3)
 **Step 10: During network selection,choose I dont have internet.<br>** 
 **Step 11: Enter Username and Password .You have successfully setup Windows 11 pro .<br>** 
+![Image](https://github.com/user-attachments/assets/9139ebf8-dc0d-4634-ae57-9537c5a460da)
 
 
       
