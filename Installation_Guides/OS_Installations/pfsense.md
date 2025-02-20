@@ -21,3 +21,15 @@
 ![Image](https://github.com/user-attachments/assets/d7293282-970d-40d8-8d2f-0787a3eaf0bd)
       3.0 **Finish**
 ![Image](https://github.com/user-attachments/assets/dea46c0f-035d-417f-b45a-a2f27b5a3e52)
+**Step 3: Start the VM<br>** 
+![Image](https://github.com/user-attachments/assets/45e979ab-32fc-42d7-8125-0c0df83225ae)
+**Step 4: Accept the notice <br>** 
+![Image](https://github.com/user-attachments/assets/531b100f-beb4-476e-8e7f-d5c28363cd81)
+**Step 5: Select install pfsense <br>**
+![Image](https://github.com/user-attachments/assets/2d40a3a5-5993-4140-bbed-bb403bccd33d)
+**Step 6: Select Auto UFS Bios<br>**
+![Image](https://github.com/user-attachments/assets/36e073cd-6999-43c3-842b-f7ed2f906464)
+**Step 7: Select Yes<br>**
+![Image](https://github.com/user-attachments/assets/6be3850a-15d1-4393-9c16-acdef1cc668a)
+**Step 8: Pfsense is successfully installed<br>**
+![Image](https://github.com/user-attachments/assets/c1836c90-8bae-4a36-8bc4-4ff12484b02e)
