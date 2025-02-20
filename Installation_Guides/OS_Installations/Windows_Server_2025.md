@@ -8,7 +8,7 @@
 ![Image](https://github.com/user-attachments/assets/78e194cf-ca32-401f-8fb5-1373e3b7a2ea)
       2.3 Select **I will install the operating system later** . **Next**  
 ![Image](https://github.com/user-attachments/assets/99c44bba-c526-4877-84ab-c7668d2d6815)
-      2.4 Select **windows** as operating system and choose **Windows Server 2025 **  as the version from the dropdown menu.**Next**
+      2.4 Select **windows** as operating system and choose **Windows Server 2025**  as the version from the dropdown menu.**Next**
 ![Image](https://github.com/user-attachments/assets/59dcb7f1-3f70-4686-9af0-1f2089594371)
       2.5 Put the name of the machine as **Initials_Windows Server 2025 and select thew location of the file .**Next**
 ![Image](https://github.com/user-attachments/assets/f15103e9-bef7-419d-abd8-1c6823c7a698)
