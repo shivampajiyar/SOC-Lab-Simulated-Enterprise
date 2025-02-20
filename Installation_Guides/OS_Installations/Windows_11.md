@@ -24,9 +24,22 @@
       3.0 Select **New CD/DVD(SATA)** and select** use iso image file**,**browse** and locate the iso image that you downloaded.**Close**      
 ![Image](https://github.com/user-attachments/assets/f9f67962-c8c4-4feb-a36e-712c24bbd6e8)
       3.1 **Finish**
-
-
-
+**Step 3: Power on the new VM .<br>** 
+![Image](https://github.com/user-attachments/assets/e91a8c4a-504d-4579-9dd9-f0966a7e2945)
+**Step 4: Select language as English.Next .<br>** 
+![Image](https://github.com/user-attachments/assets/a6958efe-fc66-4010-8c20-0a76d68594bf)
+**Step 5: Select keyboard input method.Next.<br>** 
+![Image](https://github.com/user-attachments/assets/e1740499-dd8f-4018-8778-11b864af3049)
+**Step 6: Under select setup options choose Install Windows 11.Next .<br>** 
+![Image](https://github.com/user-attachments/assets/a2321570-6817-44a9-a8d5-4a0c0cafd915)
+**Step 7:Select Windows 11 Pro in image options .<br>** 
+![Image](https://github.com/user-attachments/assets/5c043bf7-d02d-4789-a140-49f397104819)
+**Step 8: Install.<br>** 
+![Image](https://github.com/user-attachments/assets/8b3eb310-49b8-4f65-95a6-8438c1fdad05)
+**Step 9:After the instalaltions in done .Next for the default settings .<br>** 
+![Image](https://github.com/user-attachments/assets/ebd104fc-df17-46b0-ab19-ae6c593879e3)
+**Step 10: During network selection,choose I dont have internet.<br>** 
+**Step 11: Enter Username and Password .You have successfully setup Windows 11 pro .<br>** 
 
 
       
