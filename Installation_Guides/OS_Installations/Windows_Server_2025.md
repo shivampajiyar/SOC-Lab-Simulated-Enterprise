@@ -37,5 +37,5 @@
 **Step 9: Enter Username and Password.<br>**
 ![Image](https://github.com/user-attachments/assets/d5d81ae5-cbb9-4aae-a36f-02dc774ec16b)
 **Step 10: You have succesfully installed the server 2025.<br>**
-
+![Image](https://github.com/user-attachments/assets/b9e45711-278f-4f24-b10f-bd69e05036c6)
 
